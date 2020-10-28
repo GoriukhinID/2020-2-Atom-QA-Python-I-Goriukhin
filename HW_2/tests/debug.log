@@ -1,0 +1,4 @@
+[1015/003635.550:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1015/003635.552:ERROR:exception_snapshot_win.cc(99)] thread ID 4052 not found in process
+[1015/003635.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1015/003635.894:ERROR:exception_snapshot_win.cc(99)] thread ID 3372 not found in process
